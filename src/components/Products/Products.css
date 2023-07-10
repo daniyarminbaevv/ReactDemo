@@ -1,0 +1,12 @@
+.productsList {
+  display: flex;
+  flex-direction: column;
+  max-width: 600px;
+  width: 90%;
+  margin: 50px auto;
+  gap: 20px;
+}
+.heading {
+  margin-top: 50px;
+  text-align: center;
+}
